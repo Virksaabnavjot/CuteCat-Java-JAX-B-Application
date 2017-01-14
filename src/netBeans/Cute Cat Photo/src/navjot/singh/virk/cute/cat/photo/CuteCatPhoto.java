@@ -15,6 +15,9 @@ import javax.xml.bind.Unmarshaller;
 public class CuteCatPhoto {
 
     public static void main(String[] args) throws MalformedURLException, IOException {
+        GUI gui = new GUI();
+        gui.setVisible(true);
+
         try {
 
             URL url = new URL("http://thecatapi.com/api/images/get?format=xml&results_per_page=5");
