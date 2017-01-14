@@ -42,3 +42,5 @@ public class CuteCatPhoto {
 
     }
 }
+
+//Useful resource / References: http://stackoverflow.com/questions/11221136/convert-xml-to-java-object-using-jaxb-unmarshal
