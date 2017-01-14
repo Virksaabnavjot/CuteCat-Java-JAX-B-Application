@@ -1,15 +1,12 @@
 package navjot.singh.virk.cute.cat.photo;
 
-import java.io.File;
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
-import java.util.List;
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;
 import javax.xml.bind.Marshaller;
 import javax.xml.bind.Unmarshaller;
-import org.xml.sax.InputSource;
 
 /**
  *
