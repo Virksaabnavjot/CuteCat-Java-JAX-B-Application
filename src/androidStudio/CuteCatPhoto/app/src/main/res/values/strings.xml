@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Cute Cat Photo</string>
+    <string name="fetch_button">Fetch Cute Photo</string>
 </resources>
